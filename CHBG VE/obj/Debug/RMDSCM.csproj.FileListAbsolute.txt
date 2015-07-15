@@ -1,0 +1,8 @@
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\bin\Debug\RMDSCM.exe
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\bin\Debug\RMDSCM.pdb
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\obj\Debug\RMDSCM.Formulario.resources
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\obj\Debug\RMDSCM.Properties.Resources.resources
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\obj\Debug\RMDSCM.csproj.GenerateResource.Cache
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\obj\Debug\RMDSCM.exe
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\obj\Debug\RMDSCM.pdb

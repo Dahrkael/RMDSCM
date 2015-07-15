@@ -1,0 +1,8 @@
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\bin\Debug\CHBG VE.exe
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\bin\Debug\CHBG VE.pdb
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\obj\Debug\CHBG_VE.Formulario.resources
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\obj\Debug\CHBG_VE.Properties.Resources.resources
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\obj\Debug\CHBG VE.csproj.GenerateResource.Cache
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\obj\Debug\CHBG VE.exe
+C:\Documents and Settings\Santiago\Mis documentos\Visual Studio 2008\Projects\CHBG VE\CHBG VE\obj\Debug\CHBG VE.pdb
